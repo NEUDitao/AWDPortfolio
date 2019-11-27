@@ -1,64 +1,27 @@
-url: https://y7kim.github.io
+url: https://cheesesisland.com/
 baseurl: /AWDPortfolio
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Edward Li's Advanced Writing Showcase
+email: li.edwa@husky.neu.edu
+description: "A website dedicated to showcasing the work I wrote druing ENGW3307(Advanced Writing in the Sciences) during the fall of 2019. "
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Edward Li
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: eeee
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/FakeEdwardLi
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/groups/nuhacks
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/NEUDitao/
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
