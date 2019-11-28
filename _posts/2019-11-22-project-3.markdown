@@ -1,15 +1,14 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: The Failure of Education: Computer Science Left Behind
+subtitle: A Literature Review of CSE
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+modal-id: 3
+date: 2019-11-22
+img: golden.png
+thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: November 22, 2019
+category: Literature Review
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
