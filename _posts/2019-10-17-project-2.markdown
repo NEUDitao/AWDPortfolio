@@ -8,7 +8,7 @@ img: AWD-site.png
 thumbnail: AWD-site.png
 alt: image-alt
 project-date: October 17, 2019
-category: Reference Document
+category: Portfolio
 description: Creating a personal website allows for ultimate self-expression in the modern era. In this reference document, I teach users how to create a website that looks exactly like the they're reading. It can be found <a href="https://cheesesisland.com/AWDSite/To-Create-A-Homepage/">here</a>.
 
 ---
