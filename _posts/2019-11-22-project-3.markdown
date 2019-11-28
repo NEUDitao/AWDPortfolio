@@ -4,8 +4,8 @@ subtitle: A Literature Review of CSE
 layout: default
 modal-id: 3
 date: 2019-11-22
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: AWD3.png
+thumbnail: AWD3.png
 alt: image-alt
 project-date: November 22, 2019
 category: Literature Review
