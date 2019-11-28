@@ -9,6 +9,6 @@ thumbnail: AWD3.png
 alt: image-alt
 project-date: November 22, 2019
 category: Literature Review
-description: This paper reviews the struggle for first-year college computer science programs to effectively teach students how to solve problems through programming. This paper emphasizes taking a closer look at the material that is being taught in these courses, as well as the individual work done within these courses, and suggests that limiting complex syntax and introducing pair-based work allows for students to gain higher-level problem solving skills required to tackle coding together solutions to problems, while also giving them access to a partner which will help with problem-solving blockers.
+description: This paper reviews the struggle for first-year college computer science programs to effectively teach students how to solve problems through programming. This paper emphasizes taking a closer look at the material that is being taught in these courses, as well as the individual work done within these courses, and suggests that limiting complex syntax and introducing pair-based work allows for students to gain higher-level problem solving skills required to tackle coding together solutions to problems, while also giving them access to a partner which will help with problem-solving blockers. It can be found <a href="../AWDPortfolio/assets/AWD3.docx.pdf">here</a>
 
 ---
