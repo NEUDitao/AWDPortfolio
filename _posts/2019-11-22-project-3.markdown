@@ -1,14 +1,14 @@
 ---
-title: Convincing a Skeptical Real World
-subtitle: A Discourse Analysis of <i>Why Functional Programming Matters</i>
+title: "The Failure of Education Computer Science Left Behind"
+subtitle: A Literature Review of CSE
 layout: default
-modal-id: 1
-date: 2019-09-19
-img: functional-programming.png
-thumbnail: functional-programming.png
+modal-id: 3
+date: 2019-11-22
+img: AWD3.png
+thumbnail: AWD3.png
 alt: image-alt
-project-date: September 9, 2019
-category: Discourse Analysis
-description: Functional Programming as a programming paradigm has  been ridiculed for its "simplistic" and "academic" nature. In 1989, John Hughes published <i>Why Functional Programming Matters</i>, detailing the features of Functional Programming that allowed authors to write cleaner and shorter code. In this paper, I analyze what made Hughes' writing as compelling as it was. It can be found <a href="../AWDPortfolio/assets/Why-FP-Matters.pdf">here</a>
+project-date: November 22, 2019
+category: Literature Review
+description: This paper reviews the struggle for first-year college computer science programs to effectively teach students how to solve problems through programming. This paper emphasizes taking a closer look at the material that is being taught in these courses, as well as the individual work done within these courses, and suggests that limiting complex syntax and introducing pair-based work allows for students to gain higher-level problem solving skills required to tackle coding together solutions to problems, while also giving them access to a partner which will help with problem-solving blockers.
 
 ---
