@@ -1,14 +1,14 @@
 ---
-title: The Failure of Education: Computer Science Left Behind
-subtitle: A Literature Review of CSE
+title: Convincing a Skeptical Real World
+subtitle: A Discourse Analysis of <i>Why Functional Programming Matters</i>
 layout: default
-modal-id: 3
-date: 2019-11-22
-img: AWD3.png
-thumbnail: AWD3.png
+modal-id: 1
+date: 2019-09-19
+img: functional-programming.png
+thumbnail: functional-programming.png
 alt: image-alt
-project-date: November 22, 2019
-category: Literature Review
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 9, 2019
+category: Discourse Analysis
+description: Functional Programming as a programming paradigm has  been ridiculed for its "simplistic" and "academic" nature. In 1989, John Hughes published <i>Why Functional Programming Matters</i>, detailing the features of Functional Programming that allowed authors to write cleaner and shorter code. In this paper, I analyze what made Hughes' writing as compelling as it was. It can be found <a href="../AWDPortfolio/assets/Why-FP-Matters.pdf">here</a>
 
 ---
