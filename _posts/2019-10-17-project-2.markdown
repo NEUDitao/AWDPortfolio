@@ -1,5 +1,5 @@
 ---
-title: To Create a Home Page
+title: Creating a Simple Home Page
 subtitle: A Reference Document for Creating Your Own Website
 layout: default
 modal-id: 2
