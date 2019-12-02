@@ -300,6 +300,7 @@ header .intro-text .intro-heading {
     line-height: 50px;
     color: #fed136;
     border: 1px solid white;
+    background: black;
 }
 
 @media(min-width:768px) {
@@ -316,7 +317,7 @@ header .intro-text .intro-heading {
         line-height: 40px;
 	color: #fed136;
 	border: 1px solid white;
-	background: white;
+	background: black;
 		 
     }
 
