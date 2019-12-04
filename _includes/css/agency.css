@@ -299,7 +299,7 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
     color: #fed136;
-    border: 1px solid white;
+    border: 1px solid black;
     background: black;
 }
 
@@ -316,7 +316,7 @@ header .intro-text .intro-heading {
         font-style: italic;
         line-height: 40px;
 	color: #fed136;
-	border: 1px solid white;
+	border: 1px solid black;
 	background: black;
 		 
     }
