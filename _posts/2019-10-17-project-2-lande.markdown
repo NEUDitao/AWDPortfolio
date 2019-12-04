@@ -2,7 +2,7 @@
 title: To Create a Home Page Lande Feedback
 subtitle: Feedback from Lande Pointing out a need for Clarity
 layout: default
-modal-id: 5
+modal-id: 7
 date: 2019-10-9
 img: lande.png
 thumbnail: lande.png
