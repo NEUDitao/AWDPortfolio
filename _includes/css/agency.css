@@ -299,8 +299,8 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
     color: #fed136;
-    border: 1px solid black;
-    background: black;
+    border: 1px solid  rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
 }
 
 @media(min-width:768px) {
@@ -316,8 +316,8 @@ header .intro-text .intro-heading {
         font-style: italic;
         line-height: 40px;
 	color: #fed136;
-	border: 1px solid black;
-	background: black;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	background:  rgba(0, 0, 0, 0.5);
 		 
     }
 
