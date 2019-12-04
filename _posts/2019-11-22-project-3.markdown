@@ -1,5 +1,5 @@
 ---
-title: "The Failure of Education: Computer Science Left Behind"
+title: The Failure of Education&#58; Computer Science Left Behind
 subtitle: A Literature Review of CSE
 layout: default
 modal-id: 3
