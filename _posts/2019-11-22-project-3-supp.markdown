@@ -4,8 +4,8 @@ subtitle: Literature Review in CS
 layout: default
 modal-id: 8
 date: 2019-10-9
-img: lande.png
-thumbnail: lande.png
+img: compscilitreview.png
+thumbnail: compscilitreview.png
 alt: image-alt
 project-date: November 15, 2019
 category: Support
