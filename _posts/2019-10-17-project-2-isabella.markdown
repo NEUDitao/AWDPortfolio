@@ -2,7 +2,7 @@
 title: To Create a Home Page Isabella Feedback
 subtitle: Feedback from Isabella Pointing out External Factors
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2019-10-9
 img: isabella.png
 thumbnail: isabella.png
