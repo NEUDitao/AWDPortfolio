@@ -4,8 +4,8 @@ subtitle: The First Word-Draft of the Website
 layout: default
 modal-id: 5
 date: 2019-10-11
-img: 2draft.png
-thumbnail: 2draft.png
+img: 2draft.PNG
+thumbnail: 2draft.PNG
 alt: image-alt
 project-date: October 11, 2019
 category: Support
