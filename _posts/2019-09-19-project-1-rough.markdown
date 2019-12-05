@@ -1,6 +1,6 @@
 ---
-title: The Failure of Education&#58; Computer Science Left Behind
-subtitle: A Literature Review of CSE
+title: Convincing a Skeptical Real World Rough Draft
+subtitle: A Rough Draft for Unit 1
 layout: default
 modal-id: 9
 date: 2019-09-13
